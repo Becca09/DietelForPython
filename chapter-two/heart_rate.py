@@ -7,4 +7,4 @@ print()
 print("The range of your target heart rate is", target_heart_rate_minimum, "to",
       target_heart_rate_maximum, end=" beats per minute")
 
-# the percentage of any value is the  percentage divided by the 100 * the value
+# the percentage of any value is the  percentage divided by  100 * the value

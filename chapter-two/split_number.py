@@ -6,4 +6,6 @@ digitFour = number // 10 % 10
 digitFive = number % 10
 
 print(number)
-print(str(digitOne), '     ', str(digitTwo), '      ', str(digitThree), '    ', str(digitFour), '     ', str(digitFive))
+print(str(digitOne), '     ', str(digitTwo), '      ', str(digitThree), '     ', str(digitFour), '     ', str(digitFive))
+print(digitOne, digitTwo, digitThree, digitFour, digitFive, sep= '       ')
+

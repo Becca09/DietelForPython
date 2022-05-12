@@ -1,3 +1,19 @@
-print(" Number      Square        Cube ")
-for i in range (0, 6):
-    print(f'  {i :> 2}  {i * i  :> 10} {i * i * i  :> 12}   ')
+print("Number      Square        Cube ")
+
+number = 0
+print(number, number * number, number * number * number, sep= '             ')
+
+number = 1
+print(number, number * number, number * number * number, sep= '             ')
+
+number = 2
+print(number, number * number, number * number * number, sep= '             ')
+
+number = 3
+print(number, number * number, number * number * number, sep= '             ')
+
+number = 4
+print(number, number * number, number * number * number, sep= '            ')
+
+number = 5
+print(number, number * number, number * number * number, sep= '            ')
